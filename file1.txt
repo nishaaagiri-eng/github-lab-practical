@@ -1,0 +1,4 @@
+Github is a platform where people store, track, and collaborate on code.
+<h1> Welcome to github </h1>
+<br> github help you to save the code
+<br> multiple people work on the same files
